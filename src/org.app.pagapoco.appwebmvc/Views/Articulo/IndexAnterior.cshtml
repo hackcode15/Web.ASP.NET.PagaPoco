@@ -1,0 +1,13 @@
+﻿@using org.app.pagapoco.appweb.core.entities
+@model List<Articulo>
+
+<h2>Articulos [Cantidad = @Model.Count]</h2>
+
+<div>
+	<ul>
+		@foreach (var articulo in @Model)
+		{
+			<li><strong>@articulo.Nombre</strong> [@articulo.Precio]</li>
+		}
+	</ul>
+</div>

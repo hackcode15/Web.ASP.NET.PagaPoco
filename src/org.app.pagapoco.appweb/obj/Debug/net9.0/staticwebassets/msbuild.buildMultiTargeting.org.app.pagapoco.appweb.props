@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\org.app.pagapoco.appweb.props" />
+</Project>

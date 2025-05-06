@@ -1,0 +1,11 @@
+D:\ProyectosWebNETenClase\ProjectPagaPoco\src\org.app.pagapoco.appweb.core.entities\bin\Debug\net9.0\org.app.pagapoco.appweb.core.entities.deps.json
+D:\ProyectosWebNETenClase\ProjectPagaPoco\src\org.app.pagapoco.appweb.core.entities\bin\Debug\net9.0\org.app.pagapoco.appweb.core.entities.dll
+D:\ProyectosWebNETenClase\ProjectPagaPoco\src\org.app.pagapoco.appweb.core.entities\bin\Debug\net9.0\org.app.pagapoco.appweb.core.entities.pdb
+D:\ProyectosWebNETenClase\ProjectPagaPoco\src\org.app.pagapoco.appweb.core.entities\obj\Debug\net9.0\org.app.pagapoco.appweb.core.entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosWebNETenClase\ProjectPagaPoco\src\org.app.pagapoco.appweb.core.entities\obj\Debug\net9.0\org.app.pagapoco.appweb.core.entities.AssemblyInfoInputs.cache
+D:\ProyectosWebNETenClase\ProjectPagaPoco\src\org.app.pagapoco.appweb.core.entities\obj\Debug\net9.0\org.app.pagapoco.appweb.core.entities.AssemblyInfo.cs
+D:\ProyectosWebNETenClase\ProjectPagaPoco\src\org.app.pagapoco.appweb.core.entities\obj\Debug\net9.0\org.app.pagapoco.appweb.core.entities.csproj.CoreCompileInputs.cache
+D:\ProyectosWebNETenClase\ProjectPagaPoco\src\org.app.pagapoco.appweb.core.entities\obj\Debug\net9.0\org.app.pagapoco.appweb.core.entities.dll
+D:\ProyectosWebNETenClase\ProjectPagaPoco\src\org.app.pagapoco.appweb.core.entities\obj\Debug\net9.0\refint\org.app.pagapoco.appweb.core.entities.dll
+D:\ProyectosWebNETenClase\ProjectPagaPoco\src\org.app.pagapoco.appweb.core.entities\obj\Debug\net9.0\org.app.pagapoco.appweb.core.entities.pdb
+D:\ProyectosWebNETenClase\ProjectPagaPoco\src\org.app.pagapoco.appweb.core.entities\obj\Debug\net9.0\ref\org.app.pagapoco.appweb.core.entities.dll

@@ -1,0 +1,12 @@
+﻿@model ArticuloListadoViewModel
+
+<h2>@Model.TituloFormateado</h2>
+
+<div>
+	<ul>
+		@foreach (var articulo in @Model.Articulos)
+		{
+			<li><strong>@articulo.Nombre</strong> [@articulo.Precio]</li>
+		}
+	</ul>
+</div>

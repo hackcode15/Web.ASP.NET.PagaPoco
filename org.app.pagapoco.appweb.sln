@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35309.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "org.app.pagapoco.appweb", "src\org.app.pagapoco.appweb\org.app.pagapoco.appweb.csproj", "{F6A5E336-B40A-44B8-B0CB-D68F4DB8E0E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{0C2B7857-5021-4AF4-B580-52027DB60B26}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{447705AB-1AB5-4E82-8D95-9DFB0E42B6BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "org.app.pagapoco.appweb.core.entities", "src\org.app.pagapoco.appweb.core.entities\org.app.pagapoco.appweb.core.entities.csproj", "{3F3FBD62-BE1A-4C77-876E-D404818AF503}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "org.app.pagapoco.appconsole", "src\org.app.pagapoco.appconsole\org.app.pagapoco.appconsole.csproj", "{F9280727-5EB8-40B7-B85D-D51CE1C86551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "org.app.pagapoco.appweb.core.entities.tests", "tests\org.app.pagapoco.appweb.core.entities.tests\org.app.pagapoco.appweb.core.entities.tests.csproj", "{AD77E408-273C-4D9B-BBE2-6FA3DCAC3F74}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apps", "Apps", "{309CC6A0-04C1-40E9-B338-73454FA9B73A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "org.app.pagapoco.appweb.core.finder", "src\org.app.pagapoco.appweb.core.finder\org.app.pagapoco.appweb.core.finder.csproj", "{23EC897F-0CC7-4799-B9B0-56A02EE519A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "org.app.pagapoco.appwebmvc", "src\org.app.pagapoco.appwebmvc\org.app.pagapoco.appwebmvc.csproj", "{7FD02319-D797-4A3E-AE82-F58BB2FFFDE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6A5E336-B40A-44B8-B0CB-D68F4DB8E0E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A5E336-B40A-44B8-B0CB-D68F4DB8E0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A5E336-B40A-44B8-B0CB-D68F4DB8E0E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A5E336-B40A-44B8-B0CB-D68F4DB8E0E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F3FBD62-BE1A-4C77-876E-D404818AF503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3FBD62-BE1A-4C77-876E-D404818AF503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3FBD62-BE1A-4C77-876E-D404818AF503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3FBD62-BE1A-4C77-876E-D404818AF503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9280727-5EB8-40B7-B85D-D51CE1C86551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9280727-5EB8-40B7-B85D-D51CE1C86551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9280727-5EB8-40B7-B85D-D51CE1C86551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9280727-5EB8-40B7-B85D-D51CE1C86551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD77E408-273C-4D9B-BBE2-6FA3DCAC3F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD77E408-273C-4D9B-BBE2-6FA3DCAC3F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD77E408-273C-4D9B-BBE2-6FA3DCAC3F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD77E408-273C-4D9B-BBE2-6FA3DCAC3F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23EC897F-0CC7-4799-B9B0-56A02EE519A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23EC897F-0CC7-4799-B9B0-56A02EE519A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23EC897F-0CC7-4799-B9B0-56A02EE519A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23EC897F-0CC7-4799-B9B0-56A02EE519A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FD02319-D797-4A3E-AE82-F58BB2FFFDE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD02319-D797-4A3E-AE82-F58BB2FFFDE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD02319-D797-4A3E-AE82-F58BB2FFFDE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD02319-D797-4A3E-AE82-F58BB2FFFDE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F6A5E336-B40A-44B8-B0CB-D68F4DB8E0E5} = {309CC6A0-04C1-40E9-B338-73454FA9B73A}
+		{3F3FBD62-BE1A-4C77-876E-D404818AF503} = {0C2B7857-5021-4AF4-B580-52027DB60B26}
+		{F9280727-5EB8-40B7-B85D-D51CE1C86551} = {309CC6A0-04C1-40E9-B338-73454FA9B73A}
+		{AD77E408-273C-4D9B-BBE2-6FA3DCAC3F74} = {447705AB-1AB5-4E82-8D95-9DFB0E42B6BE}
+		{23EC897F-0CC7-4799-B9B0-56A02EE519A7} = {0C2B7857-5021-4AF4-B580-52027DB60B26}
+		{7FD02319-D797-4A3E-AE82-F58BB2FFFDE2} = {309CC6A0-04C1-40E9-B338-73454FA9B73A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37ED5D19-81C1-4448-AB62-D509A7B9972E}
+	EndGlobalSection
+EndGlobal

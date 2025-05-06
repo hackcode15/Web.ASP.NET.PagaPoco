@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "org.app.pagapoco.appweb.core.entities/1.0.0": {
+        "runtime": {
+          "org.app.pagapoco.appweb.core.entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "org.app.pagapoco.appweb.core.entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

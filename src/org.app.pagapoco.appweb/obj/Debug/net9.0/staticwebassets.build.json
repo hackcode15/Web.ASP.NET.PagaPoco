@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HkWl7B1/2DNX5PuriQRbpVZhHdJA+CEPwfgpPF9AAHA=",
+  "Source": "org.app.pagapoco.appweb",
+  "BasePath": "_content/org.app.pagapoco.appweb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
